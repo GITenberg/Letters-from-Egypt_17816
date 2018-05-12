@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7618
     wikipedia: http://en.wikipedia.org/wiki/Janet_Ross
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17816#Letters-from-Egypt
 gutenberg_issued: '2006-02-21'
 gutenberg_type: Text
 identifiers:
